@@ -1,0 +1,1 @@
+Este es un ejemplo de implementación de pilas y colas en la gestión de datos, se presenta un sistema de tienda por departamentos, permite registrar los mismos con distintos atributos y asignarles productos
